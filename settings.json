@@ -7,7 +7,6 @@
     ],
 
     "transcode_files": 1,
-    "copy_transcoded_files": 1,
     "copy_raw_files": 0,
 
     "detect_shows": 1,
@@ -15,8 +14,8 @@
 
     "transcode_only_codec": 1,
     "codecs_to_transcode": [
-        "mov", "mp4"
+        "h264","mp4"
     ],
 
     "ffmpeg_command": ""
-}  
+}

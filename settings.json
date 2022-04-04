@@ -1,0 +1,24 @@
+{
+    "path_to_monitor": "",
+    "path_to_copy": "",
+
+    "video_extensions": [
+        ".mov", ".mp4"
+    ],
+    
+    "ffmpeg_path": "",
+
+    "transcode_files": 1,
+    "copy_transcoded_files": 1,
+    "copy_raw_files": 0,
+
+    "detect_shows": 1,
+    "path_to_copy_shows": "",
+
+    "transcode_only_codec": 1,
+    "codecs_to_transcode": [
+        "mov", "mp4"
+    ],
+
+    "ffmpeg_command": ""
+}  

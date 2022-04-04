@@ -3,10 +3,8 @@
     "path_to_copy": "",
 
     "video_extensions": [
-        ".mov", ".mp4"
+        ".mov",".mp4",".mkv",".m4v"
     ],
-    
-    "ffmpeg_path": "",
 
     "transcode_files": 1,
     "copy_transcoded_files": 1,
